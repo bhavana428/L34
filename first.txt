@@ -1,0 +1,3 @@
+git status
+the program is on 28 feb
+
